@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Description</name>
+   <tag></tag>
+   <elementGuidId>146df18e-cd0d-42e6-ad7d-ecd6d7baff0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-header.col-last</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='for-removal']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#for-removal >> internal:text=&quot;Description&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7865789b-c279-4f83-9921-340d60d9d23e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-header col-last</value>
+      <webElementGuid>7090b9e5-ce55-4f57-9b08-4bfb890ae790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Description</value>
+      <webElementGuid>88d389e5-34f7-4a1e-a3cb-bf8905237f18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;for-removal&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;table-header col-last&quot;]</value>
+      <webElementGuid>c4e6cbee-14da-4a6a-8a1f-8999a141afda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='for-removal']/div[2]/div[2]</value>
+      <webElementGuid>389c8024-8d08-4be1-84d9-43f904d86b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element'])[1]/following::div[1]</value>
+      <webElementGuid>312be63e-fb47-4e4f-a92d-6c6b43c1e5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminally Deprecated Elements'])[1]/following::div[3]</value>
+      <webElementGuid>b7a9c769-f28a-4376-bf19-707246557658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.internal.Require.argument(String, File)'])[1]/preceding::div[1]</value>
+      <webElementGuid>dee64420-c7bb-4346-826b-30dd699de981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.internal.Require.FileChecker'])[1]/preceding::div[3]</value>
+      <webElementGuid>60439509-4fb1-46d8-9906-f7204305d9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Description']/parent::*</value>
+      <webElementGuid>947413cd-693f-4b70-85b9-d00505c7a4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>4dd92c46-f2a7-4513-9333-0ce8205ca601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Description' or . = 'Description')]</value>
+      <webElementGuid>316e82fc-f0ac-4e68-9c04-aa4fb4103e97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

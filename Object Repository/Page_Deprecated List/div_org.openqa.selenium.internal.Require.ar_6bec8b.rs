@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_org.openqa.selenium.internal.Require.ar_6bec8b</name>
+   <tag></tag>
+   <elementGuidId>dc26cde1-07a0-48db-acce-c978d1af8c9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-summary-item-name.even-row-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='for-removal']/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#for-removal div >> internal:has-text=/^org\.openqa\.selenium\.internal\.Require\.argument\(String, File\)$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b076554b-8d4d-45f9-be6a-049ff5b89364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-summary-item-name even-row-color</value>
+      <webElementGuid>62cc53f6-9b52-4b28-97e5-0678a0cb6a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>org.openqa.selenium.internal.Require.argument(String, File)</value>
+      <webElementGuid>d52b46e4-ac03-4813-8ee8-d3cd6cee82f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;for-removal&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-summary-item-name even-row-color&quot;]</value>
+      <webElementGuid>e08d1907-1126-4935-ad08-927b67f91cd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='for-removal']/div[2]/div[3]</value>
+      <webElementGuid>31810a14-c1eb-4ff8-ad0b-b5a79acdb970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[1]</value>
+      <webElementGuid>b03af61b-6d4c-494c-a317-84718c71d8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Element'])[1]/following::div[2]</value>
+      <webElementGuid>d86db028-1b0d-4012-80b0-8dc6031513cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.internal.Require.FileChecker'])[1]/preceding::div[2]</value>
+      <webElementGuid>eb027399-d524-4706-9c3a-b5816de3b1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>7a7fbf87-c4b6-4bf6-85e2-e90951bdee38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'org.openqa.selenium.internal.Require.argument(String, File)' or . = 'org.openqa.selenium.internal.Require.argument(String, File)')]</value>
+      <webElementGuid>95ea78c8-f750-4850-899d-95164e68bff5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
